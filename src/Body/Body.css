@@ -1,0 +1,8 @@
+.body__container {
+    display: flex;
+}
+
+.navmenu {
+    width: 13%;
+    background-color: grey;
+}

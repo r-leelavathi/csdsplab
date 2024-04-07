@@ -1,0 +1,15 @@
+.navbar__container{
+display: flex;
+flex-direction: column;
+gap:1rem
+}
+
+.nav__items{
+    text-decoration: none;
+    color: white;
+    margin-left: 0.6rem;
+    margin-right: 1rem;
+}
+.nav__items:hover{
+    color:blue
+}

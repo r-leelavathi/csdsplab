@@ -1,0 +1,15 @@
+.foorter__container{
+    background-color: black;
+    color:white;
+}
+
+.footer__contents{
+    display: flex;
+    justify-content: space-between;
+}
+.name__details{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 0.5rem;
+}
